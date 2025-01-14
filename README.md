@@ -21,6 +21,15 @@ pip install opencv-python
 deactivate
 ```
 
+### Run
+
+```bash
+cd ~/Physics/
+source venv3.12/bin/activate
+python3 VelocityVerlet.py
+deactivate
+```
+
 ### My Results
 
 <div align="center">
